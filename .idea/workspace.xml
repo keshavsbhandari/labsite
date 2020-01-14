@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fca07e6-dcc6-400f-a8b9-ce1f33027974" name="Default Changelist" comment="" />
+    <list default="true" id="2fca07e6-dcc6-400f-a8b9-ce1f33027974" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/bin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bin1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/bin1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/binpro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/binpro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/binpropic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/binpropic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dryanyan.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/dryanyan.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaypro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/kaypro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaypropic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/kaypropic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/unilogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/unilogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yanpropic.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/yanpropic.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ye.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/ye.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ye1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/ye1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yepro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/yepro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yepropic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/siteimages/yepropic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WMPvJQpiDQgERt6SfUyc5Ry0Hj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578956720225</updated>
-      <workItem from="1578956724039" duration="15285000" />
+      <workItem from="1578956724039" duration="15596000" />
     </task>
     <servers />
   </component>
